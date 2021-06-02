@@ -73,13 +73,13 @@ const useStyles = makeStyles((theme) => ({
         };
       
         const handleClose1 = () => {
-            window.location.href="/Works"
+            window.location.href="#/Works"
         }
         const handleClose2 = () => {
-            window.location.href="/"
+            window.location.href="#/"
         }
         const handleClose3 = () => {
-            window.location.href="/Resume"
+            window.location.href="#/Resume"
         }
         function handleListKeyDown(event) {
           if (event.key === 'Tab') {
