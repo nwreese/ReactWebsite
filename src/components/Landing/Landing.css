@@ -1,0 +1,12 @@
+
+
+  .learn-more-btn {
+    color: 'rgba(255, 99, 71, 1) !important'
+  }
+  
+  .particles-bg-canvas-self{
+    background-size: cover !important;
+    background-position: center;
+    background-repeat:no-repeat;
+    height: 100vh !important;
+  }

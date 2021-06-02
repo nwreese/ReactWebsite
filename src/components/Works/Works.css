@@ -1,0 +1,25 @@
+.register-image {
+    background-color: #333;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.contact-text{
+    color: #F06000;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-align: center;
+    padding-top: 5vh !important;
+    padding-bottom: 5vh;
+    background-color:rgba(52, 52, 52, .5);
+}
+
+.particles-bg-canvas-self{
+    background-size: cover !important;
+    background-position: center;
+    background-repeat:no-repeat;
+    height: 110vh !important;
+  }
