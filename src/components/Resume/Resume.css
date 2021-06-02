@@ -1,6 +1,6 @@
 .background-image {
     background-color: #333;
-    height: 120vh;
+    height: 130vh;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -12,7 +12,7 @@
     margin-right: auto;
     align-items: center;
     text-align: center;
-    padding-top: 10vh;
+    padding-top: 2vh !important;
     padding-bottom: 1vh;
     background-color:rgba(52, 52, 52, .5);
 }
@@ -20,5 +20,5 @@
     background-size: cover !important;
     background-position: center;
     background-repeat:no-repeat;
-    height: 105vh !important;
+    height: 140vh !important;
   }
