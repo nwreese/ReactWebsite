@@ -147,7 +147,7 @@ const useStyles = makeStyles({
       <CardActions>
         Live Link
         <br></br>
-      <SocialIcon  bgColor="#F06000" style={{height: 30, width: 30}} url="www.cheftig.com" />
+      <SocialIcon  bgColor="#F06000" style={{height: 30, width: 30}} url="https://cheftig.com/#/" />
       </CardActions>
        </Card>
 
