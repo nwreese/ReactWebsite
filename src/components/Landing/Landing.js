@@ -51,7 +51,7 @@ function Landing() {
             I'm Nick Reese
           </Typography> 
           <Typography variant="p" component="body2">
-          I'm a Barberton based Full stack web developer leveraging my background as a musician, as well as my background in psychology to provide unique perspectives on how users interact with websites and software platforms. Earned a certificate in Full Stack Web Development from Case Western Reserve University Coding Boot Camp. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.
+          I'm an Akron based Full Stack Web Developer leveraging my background as a musician, as well as my background in psychology to provide unique perspectives on how users interact with websites and software platforms. Earned a certificate in Full Stack Web Development from Case Western Reserve University Coding Boot Camp. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution.
           </Typography> 
         </CardContent>
       </CardActionArea>
