@@ -38,7 +38,7 @@ function Landing() {
     const classes = useStyles();
     
     return (
-        <>
+        <div className="LandingPage">
 <Card className={classes.root}>
       <CardActionArea>
         <CardMedia
@@ -62,7 +62,7 @@ function Landing() {
       </CardActions> */}
     </Card>
          <ParticlesBg className="particles" type="circle"bg={true} />
-        </>
+        </div>
     )
 }
 export default Landing

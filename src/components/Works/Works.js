@@ -30,7 +30,7 @@ const useStyles = makeStyles({
     },
     media: {
       height: 240,
-      marginTop: 100,
+      marginTop: 50,
       backgroundColor: 'rgba(52, 52, 52, 0.8)',
     },
     button: {
@@ -43,7 +43,7 @@ const useStyles = makeStyles({
 
     const classes = useStyles();
     return (
-<>
+<div className="WorksPage">
     <div className="register-image" 
   
         style={{ 
@@ -325,7 +325,7 @@ const useStyles = makeStyles({
        </Carousel>
        </div>
        <ParticlesBg className="particles" type="circle"bg={true} />
-       </>
+       </div>
        
     )
   }

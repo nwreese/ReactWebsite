@@ -44,10 +44,11 @@ function Resume() {
     const classes = useStyles();
    
     return (
-        <>
+        <div>
        <div className="background-image" style={{ 
                   backgroundImage: `url(${img})` 
                 }}>
+        <div className="ResumePage">
       <Card className={classes.root}>
         <CardActionArea>
         <Typography gutterBottom variant="h5" component="h2">
@@ -102,8 +103,9 @@ function Resume() {
         </CardActions> */}
       </Card>
       </div>
+      </div>
       <ParticlesBg className="particles1" type="circle"bg={true} />
-      </>
+      </div>
     );
   }
   

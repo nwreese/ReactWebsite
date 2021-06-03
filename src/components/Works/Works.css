@@ -12,7 +12,7 @@
     margin-right: auto;
     align-items: center;
     text-align: center;
-    padding-top: 2vh !important;
+    padding-top: 5vh !important;
     padding-bottom: 5vh;
     background-color:rgba(52, 52, 52, .5);
 }
@@ -22,4 +22,8 @@
     background-position: center;
     background-repeat:no-repeat;
     height: 110vh !important;
+  }
+
+  .WorksPage{
+      margin-top: 21vh;
   }

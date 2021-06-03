@@ -5,7 +5,7 @@
     background-size: cover;
     background-position: center;
 }
-.contact-text{
+/* .contact-text{
     color: #F06000;
     font-size: 40px;
     margin-left: auto;
@@ -15,10 +15,14 @@
     padding-top: 2vh !important;
     padding-bottom: 1vh;
     background-color:rgba(52, 52, 52, .5);
-}
+} */
 .particles-bg-canvas-self{
     background-size: cover !important;
     background-position: center;
     background-repeat:no-repeat;
     height: 140vh !important;
+  }
+
+  .ResumePage {
+      margin-top: 21vh;
   }
